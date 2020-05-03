@@ -35,11 +35,11 @@ body {
     -ms-flex-align: center;
     align-items: center;
     background-image: url("es-campur.png");
+    width: 100%;
+    height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
     background-color: darksalmon;
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 }
